@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Framework,node**
+- 🌱 I’m currently learning **Framework,node.js**
 
 - 💬 Ask me about **React,Springboot,Html/Css/JavaScript,Java,MySql,Angular,Js**
 
