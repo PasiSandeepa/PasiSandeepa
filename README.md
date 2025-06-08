@@ -56,7 +56,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<a href="https://linkedin.com/in/PasinduSandeepa" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="pasindu-sandeepa-712128338/)" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/pasindu-sandeepa" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="pasindu-sandeepa" height="50" width="50" /></a>
+
 
 </p>
 ---
