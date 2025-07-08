@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pasindu Sandeepa</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 
+<h1>About Me☺️</h1>
+
+<p>I am Pasindu i passionate Full Stack Software Engineer with experience in developing robust, scalable, and
+            efficient software solutions. My core expertise includes Java, Spring Boot, JavaScript, and modern front-end
+            technologies. I enjoy solving real-world problems through clean code and intuitive user interfaces. I’m
+            always eager to learn new technologies and collaborate on impactful projects.With a strong foundation in
+            object-oriented programming and software architecture, I aim to build high-quality solutions that are both
+            efficient and scalable. I am always open to new challenges that help me grow and contribute meaningfully to
+            any team or project.. </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasisandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="pasisandeepa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasisandeepa" alt="pasisandeepa" /></a> </p>
@@ -56,6 +66,13 @@
 <p align="center">
 
 <a href="https://linkedin.com/in/pasindu-sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-sandeepa" height="30" width="40" /></a>
+
+<a href="https://mail.google.com/mail/u/0/#search/pasisandeepa456%40gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="pasisandeepa456@gmail.com" height="30" width="40" />
+</a>
+
+</a>
+
 </p>
 
 
