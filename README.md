@@ -65,13 +65,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<a href="https://linkedin.com/in/pasindu-sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-sandeepa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasindu-sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-sandeepa" height="30" width="40" /></a>              <a href="https://mail.google.com/mail/u/0/#search/pasisandeepa456%40gmail.com" target="blank">
+                                                     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="pasisandeepa456@gmail.com" height="30" width="40" />
+                                                    </a>
 
-<a href="https://mail.google.com/mail/u/0/#search/pasisandeepa456%40gmail.com" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="pasisandeepa456@gmail.com" height="30" width="40" />
-</a>
 
-</a>
+
+
 
 </p>
 
