@@ -7,7 +7,7 @@
             efficient software solutions. My core expertise includes Java, Spring Boot, JavaScript, and modern front-end
             technologies. I enjoy solving real-world problems through clean code and intuitive user interfaces. I’m
             always eager to learn new technologies and collaborate on impactful projects.With a strong foundation in
-            object-oriented programming and software architecture, I aim to build high-quality solutions that are both
+            object-oriented programming and software architecture, I am to build high-quality solutions that are both
             efficient and scalable. I am always open to new challenges that help me grow and contribute meaningfully to
             any team or project.. </p>
 
