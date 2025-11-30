@@ -76,9 +76,10 @@
 </a>
 
 <!-- Gmail -->
-<a href="mailto:pasisandeepa456@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pasisandeepa456@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email Pasindu" height="30" width="40" />
 </a>
+
 
 
 
