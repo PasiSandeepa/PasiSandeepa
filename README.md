@@ -70,10 +70,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/pasindu-sandeepa-712128338/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pasindu Sandeepa LinkedIn" height="30" width="40" />
+</a>
 
-<a href="https://l[inkedin.com/in/pasindu-sandeepa](https://www.linkedin.com/in/pasindu-sandeepa-712128338/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-sandeepa" height="30" width="40" /></a>              <a href="https://mail.google.com/mail/u/0/#search/pasisandeepa456%40gmail.com" target="blank">
-                                                     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="pasisandeepa456@gmail.com" height="30" width="40" />
-                                                    </a>
+<!-- Gmail -->
+<a href="mailto:pasisandeepa456@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email Pasindu" height="30" width="40" />
+</a>
+
 
 
 
