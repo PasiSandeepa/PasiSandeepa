@@ -76,16 +76,24 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<!-- LinkedIn -->
+
 <a href="https://www.linkedin.com/in/pasindu-sandeepa-712128338/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pasindu Sandeepa LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Pasindu" />
 </a>
 
-<!-- Gmail -->
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pasisandeepa456@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email Pasindu" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pasindu" />
 </a>
 
+<a href="https://wa.me/94778338438" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Pasindu" />
+</a>
+
+<a href="https://www.facebook.com/share/171fpaJ74M/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Pasindu" />
+</a>
+
+</p>
 
 
 
