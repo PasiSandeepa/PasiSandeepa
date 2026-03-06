@@ -103,4 +103,7 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="50" height="50"/> </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="50" height="50"/> </a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,redux,bootstrap,tailwind,sass,figma,ai" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,java,py,php,swift,kotlin,dart,flutter" /></a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql,aws,gcp,firebase,linux,docker,git,postman,codepen" /></a>
 </p>
