@@ -42,10 +42,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PasiSandeepa&theme=github_dark" width="100%" />
 </p>
 
-<h3 align="center">📊 Activity 3D Wave</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasiSandeepa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
+
 
 ---
 
