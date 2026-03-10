@@ -64,7 +64,7 @@
 
 <h3 align="center">🏆 Certifications & Badges</h3>
 <p align="center">
-  <a href="https://github.com/PasiSandeepa/docker-101" target="_blank">
+  <a href="https://github.com/PasiSandeepa/Github-for-beginners" target="_blank">
     <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" 
          alt="GitHub for Beginners Badge" 
          width="200" 
