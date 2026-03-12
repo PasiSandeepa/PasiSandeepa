@@ -68,7 +68,14 @@
     <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" 
          alt="GitHub for Beginners Badge" 
          width="200" 
-         style="filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.3));" />
+         style="filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.3)); margin: 10px;" />
+  </a>
+
+  <a href="https://github.com/PasiSandeepa/docker-101" target="_blank">
+    <img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" 
+         alt="Docker 101 Badge" 
+         width="200" 
+         style="filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.3)); margin: 10px;" />
   </a>
 </p>
 
