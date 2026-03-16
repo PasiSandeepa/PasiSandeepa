@@ -39,10 +39,8 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PasiSandeepa&theme=github_dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasiSandeepa&theme=github-dark-default&area=true&color=40c463&line=40c463&point=40c463&bg_color=0D1117&hide_border=false" width="100%" />
 </p>
-
-
 
 ---
 
