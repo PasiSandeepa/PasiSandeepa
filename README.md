@@ -103,23 +103,21 @@
 
 ---
 <h3 align="center"> 💻 Languages and Tools:</h3>
+
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mssql" alt="mssql" width="50" height="50"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="50" height="50"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="50" height="50"/> </a>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,redux,bootstrap,tailwind,sass,figma,ai" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,java,py,php,swift,kotlin,dart,flutter" /></a>
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql,aws,gcp,firebase,linux,docker,git,postman,codepen" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,antdesign,figma,ai" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,php,dart,flutter" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,github,git,linux,aws,vercel,postman,jira" />
+  </a>
 </p>
