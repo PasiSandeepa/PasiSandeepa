@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pasindu Sandeepa</h1>
+<h1 align="center">Hi👋, I'm Pasindu Sandeepa</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <h1>About Me☺️</h1>
