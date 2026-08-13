@@ -49,10 +49,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PasiSandeepa&show_icons=true&theme=radical&count_private=true&border_radius=10" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasiSandeepa&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PasiSandeepa&theme=radical&hide_border=false&langs_count=10&layout=compact&border_radius=10" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PasiSandeepa&theme=radical" alt="Profile Details" />
     </td>
   </tr>
 </table>
@@ -76,8 +76,6 @@
          style="filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.3)); margin: 10px;" />
   </a>
 </p>
-
----
 
 ---
 <h3 align="center">Connect with me:</h3>
