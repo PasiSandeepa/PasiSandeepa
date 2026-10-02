@@ -10,8 +10,9 @@
             object-oriented programming and software architecture, I am to build high-quality solutions that are both
             efficient and scalable. I am always open to new challenges that help me grow and contribute meaningfully to
             any team or project.. </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pasisandeepa&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pasisandeepa&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-trophy.vercel.app/?username=pasisandeepa&theme=algolia&row=1&column=6" />
