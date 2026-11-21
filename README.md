@@ -3,13 +3,31 @@
 
 <h1>About Me☺️</h1>
 
-<p>I am Pasindu i passionate Full Stack Software Engineer with experience in developing robust, scalable, and
-            efficient software solutions. My core expertise includes Java, Spring Boot, JavaScript, and modern front-end
-            technologies. I enjoy solving real-world problems through clean code and intuitive user interfaces. I’m
-            always eager to learn new technologies and collaborate on impactful projects.With a strong foundation in
-            object-oriented programming and software architecture, I am to build high-quality solutions that are both
-            efficient and scalable. I am always open to new challenges that help me grow and contribute meaningfully to
-            any team or project.. </p>
+<p>I am a passionate Software Engineering Diploma Graduate with a strong interest in Full-Stack Development, Mobile Application Development, and Data Science.
+
+I have hands-on experience in building modern web and mobile applications using technologies such as Java (Spring Boot), React.js, Next.js, Flutter, Dart, Python, MySQL, and PostgreSQL. I focus on developing scalable, efficient, and user-friendly applications by following clean coding principles, proper database design, and modern software engineering practices.
+
+Alongside my software development journey, I am pursuing my interest in Data Science, with a focus on Data Analytics, Machine Learning, Artificial Intelligence, and data-driven problem-solving. I am continuously expanding my knowledge to understand how data and intelligent technologies can solve real-world challenges.
+
+I enjoy working in collaborative environments where innovation, continuous learning, and problem-solving drive success. My goal is to combine Software Engineering and Data Science to build intelligent, reliable, and impactful technology solutions.
+
+Technical Skills:
+
+Programming: Java, JavaScript, Python, Dart
+
+Backend Development: Spring Boot, REST APIs
+
+Frontend Development: React.js, Next.js
+
+Mobile Development: Flutter
+
+Databases: MySQL, PostgreSQL
+
+Tools & Practices: Git, OOP, Clean Code, Software Design Principles
+
+I believe in continuous learning, exploring emerging technologies, and turning ideas into practical solutions.
+
+Let's connect and build innovative technology solutions together!.. </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pasisandeepa&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
